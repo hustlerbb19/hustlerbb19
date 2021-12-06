@@ -1,6 +1,6 @@
 # Bennett Bernstein 🗳️ 📈 🔵
 
-Hello 👋. My name is Bennett Bernstein, I'm an applied political data scientist with experience at the intersection of civic engagement and contemporary machine learning. Today, I work as a Senior Data Scientist at [BlueLabs Analytics](https://bluelabs.com/) where I work to promote Democratic campaigns and advance progressive causes. I'm also a master's student in the [Quantitative Methods in the Social Sciences](https://www.qmss.columbia.edu/) program at Columbia University. 
+Hello 👋. My name is Bennett Bernstein, I'm an applied political data scientist with experience at the intersection of civic engagement and contemporary machine learning. Today, I'm employed as a Senior Data Scientist at [BlueLabs Analytics](https://bluelabs.com/) where I work to promote Democratic campaigns and advance progressive causes. I'm also a master's student in the [Quantitative Methods in the Social Sciences](https://www.qmss.columbia.edu/) program at Columbia University. 
 
 My prior professional experience includes tours as:
 - **Lead Data Scientist** on the *Cory Booker 2020* presidential campaign, where I developed novel targeting and forecasting deliverables informing strategic resource allocation
